@@ -80,8 +80,8 @@ Trained YOLOv5 on 1,592 images to detect 12 chess pieces (99.3% mAP50, 1.63 it/s
 ## 📫 Get in Touch  
 - **Email**: [likhita.yerra@aivancity.education](mailto:likhita.yerra@aivancity.education)  
 - **LinkedIn**: [linkedin.com/in/likhita-yerra](https://linkedin.com/in/likhita-yerra)  
-- **GitHub**: [github.com/YourUsername](https://github.com/YourUsername) *(Update with your username)*  
-- **Pronouns**: She/Her  
+- **GitHub**: [github.com/YourUsername]([https://github.com/YourUsername](https://github.com/LikhitaYerra)) 
+
 
 ---
 
