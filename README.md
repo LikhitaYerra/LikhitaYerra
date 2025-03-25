@@ -97,13 +97,5 @@ An AI model trained to detect 12 chess pieces across 1,592 images, hitting 99.3%
 - **GitHub**: [github.com/LikhitaYerra](https://github.com/LikhitaYerra)
 - **Portfolio**:[portfolio](https://portfolio-get7peh.gamma.site)
 
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=light" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=light" alt="Top Languages" />
-</div>
-
 ---
 *“Building AI that thinks, learns, and creates.”*
