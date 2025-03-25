@@ -94,8 +94,9 @@ An AI model trained to detect 12 chess pieces across 1,592 images, hitting 99.3%
 ## 📫 Get in Touch  
 - **Email**: [likhita.yerra@aivancity.education](mailto:likhita.yerra@aivancity.education)  
 - **LinkedIn**: [linkedin.com/in/likhita-yerra](https://linkedin.com/in/likhita-yerra)  
-- **GitHub**: [github.com/YourUsername](https://github.com/LikhitaYerra)
-- **Pronouns**: She/Her  
+- **GitHub**: [github.com/LikhitaYerra](https://github.com/LikhitaYerra)
+- **Portfolio**:[portfolio](https://portfolio-get7peh.gamma.site)
+
 
 ---
 
